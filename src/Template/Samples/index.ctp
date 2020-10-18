@@ -60,7 +60,6 @@
             <div class="card">
               <div class="skill-desc">
                 <h3 class="section-desc"><i class="fas fa-child"></i></i>自己紹介</h3>
-                <!-- <p>基本的な事は一通りできます。CSSフレームワークはbootstrap使いました。</p> -->
                 <table class="table table-borderless">
                   <thead>
                     <tr>
@@ -75,17 +74,16 @@
                       <th scope="col">出身</th>
                       <th scope="col">東京都　葛飾区亀有</th>
                     </tr>
-                  </thead>
-                  <tbody>
                     <tr>
                       <th scope="row">体力</th>
-                      <td><span class="rating"><p class="rate rate5"></p></span></td>
+                      <th><p class="rate rate5"></p></th>
                     </tr>
                     <tr>
-                      <th scope="row">feature</th>
-                      <td><span class="rating"><p class="rate rate4"></p></span></td>
+                      <th scope="row">頭の良さ</th>
+                      <th><p class="rate rate3"></p></th>
                     </tr>
-                  </tbody>
+                    </thead>
+                  <!-- </tbody> -->
                 </table>
                 <div class="two-column-desc">
                   <p class="text">
@@ -268,9 +266,6 @@
                       <td><span class="rating"><p class="rate rate3"></p></span></td>
                     </tr>
                     <tr>
-                      <!-- <th scope="row">Postman</th>
-                      <td><span class="rating"><p class="rate rate4"></p></span></td>
-                    </tr> -->
                   </tbody>
                 </table>
               </div>
@@ -285,7 +280,6 @@
                   <tbody>
                     <tr>
                       <th scope="row">MacBook Pro　13インチ</th>
-                      <!-- <td><span class="rating"><p class="rate rate4"></p></span></td> -->
                     </tr>
                     <tr>
                       <th scope="row">ポケットwifi</th>

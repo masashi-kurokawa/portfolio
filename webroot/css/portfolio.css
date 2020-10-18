@@ -400,6 +400,53 @@ ul, li {
   width: 100px;
 }
 
+#Profile .rate {
+  position: relative;
+  display: inline-block;
+  width: 110px;
+  font-size: 20px;
+}
+
+#Profile .rate:before, #Profile .rate:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '★★★★★';
+  display: inline-block;
+  height: 20px;
+  line-height: 20px;
+}
+
+#Profile .rate:before {
+  color: #ddd;
+}
+
+#Profile .rate:after {
+  color: #808080;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+#Profile .rate1:after {
+  width: 20px;
+}
+
+#Profile .rate2:after {
+  width: 40px;
+}
+
+#Profile .rate3:after {
+  width: 60px;
+}
+
+#Profile .rate4:after {
+  width: 80px;
+}
+
+#Profile .rate5:after {
+  width: 100px;
+}
+
 /*--------------------------------
  CONTACT
 ---------------------------------*/
@@ -595,6 +642,29 @@ ul, li {
   #skill .rate5:after {
     width: 75px;
   }
+  #Profile .rate {
+    height: 15px;
+    font-size: 15px;
+  }
+  #Profile .rate:before, #Profile .rate:after {
+    height: 15px;
+    line-height: 15px;
+  }
+  #Profile .rate1:after {
+    width: 15px;
+  }
+  #Profile .rate2:after {
+    width: 30px;
+  }
+  #Profile .rate3:after {
+    width: 45px;
+  }
+  #Profile .rate4:after {
+    width: 60px;
+  }
+  #Profile .rate5:after {
+    width: 75px;
+  }
   #contact .contact-list ul {
     width: 100%;
   }
@@ -616,6 +686,9 @@ ul, li {
     margin-bottom: 5px;
   }
 
+  #Profile{
+
+  }
  .profile img {
   /* border-radius: 50%;
   border: 4px solid GREEN; */
