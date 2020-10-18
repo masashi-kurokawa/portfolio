@@ -82,7 +82,7 @@
                       <td><span class="rating"><p class="rate rate5"></p></span></td>
                     </tr>
                     <tr>
-                      <th scope="row">HTML5</th>
+                      <th scope="row">feature</th>
                       <td><span class="rating"><p class="rate rate4"></p></span></td>
                     </tr>
                   </tbody>
