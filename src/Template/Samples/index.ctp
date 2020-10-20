@@ -49,14 +49,6 @@
             <div class="two-column-image profile">
               <img src="img/profile/profile.JPG" alt="">
             </div>
-            <!-- <div class="two-column-desc">
-              <p class="text">
-                　はじめまして。平成5年生まれの25歳エンジニアのなおと(<a href="https://twitter.com/naoto_7713?lang=ja">@naoto_7713</a>)と申します。社会人歴（IT業界）4年目です。<br>
-                　新卒では中小企業のSIerに入社しました。常駐先ではウォータフォール型でデスクトップアプリ開発に携わりました。1年目は開発、2年目は問い合わせ対応と業務効率化のツールを作成です。
-                ただ、自分で勉強していくうちにもっと開発をしたい！！Webに携わりたい！！と思い転職を決意。<br>
-                　web系の自社開発に入社し、現在はフルスタックエンジニアとして働いております。直近でフロントはSPAで実装して、バックエンドはAPI開発です。（2018年8月12日更新）
-              </p>
-            </div> -->
             <div class="card">
               <div class="skill-desc">
                 <h3 class="section-desc"><i class="fas fa-child"></i></i>自己紹介</h3>
@@ -75,19 +67,24 @@
                       <th scope="col">東京都　葛飾区亀有</th>
                     </tr>
                     <tr>
+                      <th scope="col">プログラミング歴</th>
+                      <th scope="col">1年</th>
+                    </tr>
+                    <tr>
                       <th scope="row">体力</th>
                       <th><p class="rate rate5"></p></th>
                     </tr>
                     <tr>
-                      <th scope="row">頭の良さ</th>
-                      <th><p class="rate rate3"></p></th>
+                      <th scope="row">メンタル</th>
+                      <th><p class="rate rate4"></p></th>
                     </tr>
                     </thead>
                   <!-- </tbody> -->
                 </table>
                 <div class="two-column-desc">
                   <p class="text">
-                    基本的な事は一通りできます。CSSフレームワークはbootstrap使いました。
+                    前職の会社がプログラミングスクールを運営していて、普段は週5日間家電量販店にて就業して休みの２日間でプログラミングの勉強していました。
+                    ９ヶ月間勉強したのちカリキュラムを終えて卒業しました。独学を合わせると1年以上勉強していました。
                   </p>
                 </div>
               </div>
