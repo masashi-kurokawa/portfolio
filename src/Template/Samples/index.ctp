@@ -40,7 +40,6 @@
     <main id="contents">
 
       <section class="section" id="Profile">
-      <!-- <section class="section" id="skill"> -->
         <div class="inner">
           <div class="section-title-block">
             <h2 class="section-title"><i class="fas fa-user"><span class="section-title-css">PROFILE</span></i></h2>
